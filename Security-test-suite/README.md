@@ -1,6 +1,6 @@
 # OWASP Juice Shop Security Test Suite
 
-[![Security Tests](https://github.com/<owner>/security-test-suite/actions/workflows/security-tests.yml/badge.svg)](https://github.com/<owner>/security-test-suite/actions/workflows/security-tests.yml)
+[![Security Tests](https://github.com/Srotrekl/Security-test-suite/actions/workflows/security-tests.yml/badge.svg)](https://github.com/Srotrekl/Security-test-suite/actions/workflows/security-tests.yml)
 [![Python 3.11+](https://img.shields.io/badge/python-3.11%2B-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![OWASP Top 10](https://img.shields.io/badge/OWASP-Top%2010%20(2021)-orange.svg)](https://owasp.org/Top10/)
@@ -78,7 +78,7 @@ pytest ──> httpx ──────────> Juice Shop (Docker :3000)
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/<owner>/security-test-suite.git
+git clone https://github.com/Srotrekl/Security-test-suite.git
 cd security-test-suite
 
 # 2. Set up environment
